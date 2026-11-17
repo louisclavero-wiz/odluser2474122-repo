@@ -12,7 +12,7 @@ which is what the `Dockerfile` is built from in the CI/CD portion of the lab.
 npm install
 node app.js
 ```
-
+?
 Then open <http://localhost:3000>.
 
 ## Build it
